@@ -1,5 +1,5 @@
 
-Mercurial Grabber v2.7
+ Grabber v2.7
 
 Change log:
 Fixed Minecraft session stealer bug
